@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog David</title>
+<style>
+    blockquote{margin-left: auto;}
+    small {font-weight: bold;}
+    strong {font-weight: bold;}
+    mark1{background-color: rgb(1, 243, 130);
+    color: black;
+    }
+    mark{background-color:rgb(0, 223, 19);
+    color: black
+    }
+</style>
+</head>
+<body>
+    <div>
+        
+        <h1><mark>Receita de bolo de fubá</h1></mark>
+        <p><sup><small>INGREDIENTES</small></sup></p>
+        <ul>
+            <li>3 ovos</li>
+            <li>2 xícaras (chá) de açucar</li>
+            <li>2 xícaras (chá) de fubá</li>
+            <li>3 colheres (sopa) rasas de farinha de trigo</li>
+            <li>1//2 copo (americano) de óleo</li><li>1 copo de leite</li>
+            <li>1 colher (sopa) de fermento em pó</li>
+        </ul>
+        
+        <h2><sub>MODO DE PREPARO</sub></h2>
+        <ol>
+            <li> Bata <u>todos os ingredientes</u> no liquidificador.</li>
+            <li> Coloque em uma forma untada e enfarinhada.</li>
+            <li> Leve ao forno pré aquecido e deice assar, cerca de 40 <abbr title="minutos">min.</abbr></li>
+            <p style="font-family:verdana">PRONTO!! UM <del>EXCELENTE</del> MARAVILHOSO BOLO BEM FÁCIL DE FAZER..</p>
+        </ol>
+        <hr style="width:100%;text-align:left;margin-left:0">
+
+        <h3><mark>Receita de bolinho de chuva</h3> <a href="https://vovopalmirinha.com.br/wp-content/uploads/2020/03/vovo-palmirinha-bolinho-de-chuva.jpg"><img border="0" alt="Bolinho.img" src="Bolinho.img" width="100" height="100"></mark>
+            </a>
+        <p>INGREDIENTES</p>
+        <ul>
+            <li>2 ovos</li>
+            <li>1 xícara de açucar</li>
+            <li>1 xícara (chá) de leite</li>
+            <li>2 e 1/2 xícara de farinha de trigo</li>
+            <li>1 colher (sopa) de fermento em pó</li>
+            <li>3 colheres (sopa) de açucar para polvilhar</li>
+            <li>1 colher (sopa) de canela para polvilhar</li>
+            <li>1 lítro de óleo para fritar</li>
+        </ul>    
+        
+        <h4>MODO DE PREPARO</h4>
+        <ol>
+            <li>Misture todos os ingredientes até obter uma massa cremosa e homogênea.</li>
+            <li>Deixe aquecer uma panela com bastante óleo para que os bolinhos possam boiar.</li>
+            <li>Quando o óleo estiver bem quente (180º C), com uma colher, comece a colocar pequenas quantidades de massa, e frite até que dourem por inteiro.</li>
+            <li>Coloque os bolinhos sobre papel absorvente e depois passe-os no açúcar com canela./li>
+        </ol>    
+        
+        <h5><mark1>INFORMAÇÕES ADICIONAIS</mark1></h5>
+        <P><strong>Muita gente fica na dúvida de como fazer bolinho de chuva sequinho e o segredo é simples: adicionar um pouco de amido de milho na massa.</P></strong>
+        
+        <h6><blockquote><i>Muito obrigado por acessar o meu SITE AULA!!</i></blockquote></h6>
+    </div>
+    
+</body>
+</html>
